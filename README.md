@@ -1,12 +1,30 @@
-# React + Vite
+# Portfolio v2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio version 2, built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
 
-## Expanding the ESLint configuration
+- **React**: A library for building user interfaces.
+- **Vite**: A modern build tool that provides minimal configuration and fast hot module replacement (HMR).
+- **Tailwind CSS**: A utility-first CSS framework for rapid and responsive styling.
+- **ESLint**: For maintaining clean and consistent code.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+- Minimal setup with React and Vite for fast development.
+- Hot Module Replacement (HMR) powered by Vite.
+- Basic ESLint configuration for best practices.
+- Tailwind CSS for modern and responsive styles.
+- Project currently under development.
+
+---
+
+## How to Run the Project
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/Portfolio-v2.git
