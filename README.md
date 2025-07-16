@@ -1,6 +1,7 @@
 # Portfolio v2
 
 This is my personal portfolio version 2, built with React, Vite, and Tailwind CSS.
+Visite site: https://juandagalo98.github.io/Portfolio-v2/
 
 ---
 
